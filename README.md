@@ -6,7 +6,8 @@
 - 📫 How to reach us **betterplaycompany@gmail.com**
 
 - Php version: **8.2.0**
-
+- Laravel Version: **4.2**
+- MySQL Version: **8.0.31**
 
 
 **Team members:**
