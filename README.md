@@ -5,6 +5,10 @@
 
 - 📫 How to reach us **betterplaycompany@gmail.com**
 
+- Php version: **8.2.0**
+
+
+
 **Team members:**
   
 - **Andrés Cordón:** 2º year student of Application Development degree 
