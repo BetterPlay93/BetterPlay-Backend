@@ -5,6 +5,13 @@
 
 - 📫 How to reach us **betterplaycompany@gmail.com**
 
+**Team members:**
+  
+- **Andrés Cordón:** 2º year student of Application Development degree 
+- **Contact:** andres_cordon_m-tsapp1ta212@cev.com / acordondominguez31@gmail.com
+- **Pablo Gonzálvez:** 2º year student of Application Development degree 
+- **Contact:** pablo_gonzalvez_m-tsapp1ta2122@cev.com / pablogonzalvezdelpino99@gmail.com
+
 
 
 <h3 align="left">Connect with me:</h3>
